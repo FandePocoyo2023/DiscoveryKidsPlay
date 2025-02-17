@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>F74C6AB7-5D10-4F0F-B566-5ADF5E2DBB60</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="22.5" cy="22.5" r="22.5"></circle>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="45" height="45" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Video---Responsive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Video/1440" transform="translate(-502.000000, -808.000000)">
+            <g id="SELECTION-GRID" transform="translate(135.000000, 651.000000)">
+                <g id="thumbs" transform="translate(20.000000, 40.000000)">
+                    <g id="icon/video" transform="translate(347.000000, 117.000000)">
+                        <g id="Icon_video" filter="url(#filter-1)">
+                            <use id="Oval-2" stroke="#FFFFFF" mask="url(#mask-3)" stroke-width="7" fill="#FC882C" xlink:href="#path-2"></use>
+                            <path d="M16.0002891,13.2447093 C15.9908819,12.7958913 16.2116463,12.3779312 16.5746855,12.1572386 C16.9377248,11.936546 17.3840979,11.9489513 17.7360828,12.1895154 C18.4276005,12.6153615 32.2446579,21.2046399 33.4240177,21.9402608 C33.7797252,22.1549166 34,22.5597549 34,22.9988464 C34,23.4379378 33.7797252,23.8427761 33.4240177,24.0574319 C32.5750187,24.5955808 18.7054675,33.2300818 17.7010869,33.8285274 C17.3532857,34.0524068 16.9205082,34.0573827 16.5683473,33.8415512 C16.2161864,33.6257197 15.9991526,33.222489 16.0002891,32.7861466 L16.0002891,13.2447093 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

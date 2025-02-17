@@ -1,0 +1,71 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var fwConfigOpts = {
+    sitePrefix: "DKIDS_LATAM_2",
+    fallbackSiteId: 1912449,
+    splitHTML5: false,
+    appendPrimary: true,
+    dynamicSlots: true,
+    videoJS: true,
+    detectBC: true,
+    scanDelay: 1000,
+    dontUseDomReady: true,
+    metaData: {
+    	foo: ''
+    },
+    pageMatch: {
+        homepage: '^\/$',
+        angrybirds: '/character/angry-birds.*|/video/angry-birds.*',
+        peppa: '/character/peppa.*|/video/peppa.*',
+        doki: '/character/doki.*|/video/doki.*',
+        dinotrux: '/character/dinotrux.*|/video/dinotrux.*',
+        zack: '/character/zack-y-quack.*|/video/zack-y-quack.*',
+        calimero: '/character/calimero.*|/video/calimero.*',
+        transformers: '/character/transformers-rescue-bots.*|/video/transformers-rescue-bots.*',
+        littlepony: '/character/my-little-pony-la-magia-de-la-amistad.*|/video/my-little-pony-la-magia-de-la-amistad.*',
+        superinsectos: '/character/superinsectos.*|/video/superinsectos.*',
+        littlestpetshop: '/character/littlest-pet-shop.*|/video/littlest-pet-shop.*',
+        lacallescream: '/character/la-calle-scream.*|/video/la-calle-scream.*',
+        frutillita: '/character/frutillita.*|/video/frutillita.*',
+        elzoodezu: '/character/el-zoo-de-zu.*!/video/el-zoo-de-zu.*',
+        elmundo: '/character/el-mundo-de-luna.*|/video/el-mundo-de-luna.*',
+        games: '/juegos.*',
+        missmoon: '/character/miss-moon.*|/video/miss-moon.*',
+        charlie: '/character/charlie-lola.*',
+        snoppy: '/character/snoopy-y-sus-amigos.*|/video/snoopy-y-sus-amigos.*',
+        truckdown: '/character/trucktown.*|/video/trucktown.*',
+        superwings: '/character/super-wings.*|/video/super-wings.*',
+    }
+}
+
+}
+/*
+     FILE ARCHIVED ON 06:59:48 Nov 12, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:23 Feb 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.701
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.01
+  esindex: 0.012
+  cdx.remote: 10.366
+  LoadShardBlock: 111.886 (3)
+  PetaboxLoader3.datanode: 6695.088 (5)
+  load_resource: 7032.284 (2)
+  PetaboxLoader3.resolve: 390.985 (2)
+*/
