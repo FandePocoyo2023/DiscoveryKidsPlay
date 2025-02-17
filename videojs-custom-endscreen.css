@@ -1,0 +1,28 @@
+/**
+ * @brightcove/videojs-custom-endscreen
+ * @version 2.0.12
+ * @copyright 2017 Brightcove, Inc.
+ * @license UNLICENSED
+ */
+.video-js .vjs-custom-endscreen-overlay{text-align:center}.video-js .vjs-endscreen-overlay-content{background-color:#000;color:#fff;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;height:auto;position:static}.video-js .vjs-endscreen-overlay-content a{color:#fff}.video-js .vjs-endscreen-overlay-content a:hover{text-decoration:none}.video-js .vjs-endscreen-overlay-buttons{height:4em}.video-js .vjs-endscreen-overlay-buttons .vjs-control{cursor:pointer;display:inline-block;font-size:4em;height:1em;margin:0 0.2em;width:1em}.video-js .vjs-endscreen-overlay-buttons .vjs-control:before{font-size:inherit;line-height:inherit}.video-js .vjs-endscreen-overlay-buttons .vjs-control:hover:before,.video-js .vjs-endscreen-overlay-buttons .vjs-control:focus:before{text-shadow:1px -1px 20px #fff, -1px 1px 20px #fff}
+
+/*
+     FILE ARCHIVED ON 06:59:44 Nov 12, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:16 Feb 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.834
+  exclusion.robots: 0.032
+  exclusion.robots.policy: 0.014
+  esindex: 0.015
+  cdx.remote: 6.718
+  LoadShardBlock: 111.415 (3)
+  PetaboxLoader3.datanode: 79.306 (4)
+  PetaboxLoader3.resolve: 184.711 (2)
+  load_resource: 170.242
+*/
